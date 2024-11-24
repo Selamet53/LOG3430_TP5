@@ -1,0 +1,4 @@
+[
+  {"user_class_name": "SimpleUser", "fixed_count": 20},
+  {"user_class_name": "HeavyUser", "fixed_count": 980}
+]
